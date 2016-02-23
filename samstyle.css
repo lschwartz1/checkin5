@@ -1,0 +1,22 @@
+body{background-color:pink;}
+h1{color:blue;}
+h1{text-align:center;}
+#wrapper{background-color:white;
+width:80%;
+height:80%;
+margin:0 auto;
+border:5px solid purple;}
+
+.intro{color:red;}
+
+#squirrels{background-color:gray;}
+
+#rodents{color:green;}
+
+#food{background-color:yellow}
+
+#meat{color:red;}
+
+#Walks{background-color:orange;}
+
+#walking{color:pink;}
